@@ -3,7 +3,7 @@
 # Simple Startup Game
 
 ## Introduction
-Welcome to the Simple Startup Game! This is a basic Java-based game designed to demonstrate fundamental programming concepts in a fun and interactive way. The game revolves around guessing the correct sequence of numbers, simulating a simple hit-and-miss scenario.
+Welcome to the Simple Startup Game! This is a basic Java-based game designed to demonstrate fundamental programming concepts in a fun and interactive way. The game revolves around guessing the correct sequence of numbers, simulating a simple hit-and-miss scenario. There is a bug in the game, try to find and fix it!!!
 
 ## Game Description
 In Simple Startup Game, the player is tasked with finding a 'startup' located at a series of consecutive numbers in a grid. The game randomly selects a starting position and the player must guess the sequence. Each guess results in a 'hit', 'miss', or 'kill' response, guiding the player towards the solution.
